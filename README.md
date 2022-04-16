@@ -1,1 +1,1 @@
-# Horizon
+# Algoritmika First Project
